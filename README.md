@@ -11,8 +11,8 @@ It is built on the programming language R, and allows for a variety of statistic
 
 1. [Intro to jamovi](http://openintrostat.github.io/oilabs-jamovi/01_intro_to_jamovi/intro_to_jamovi.html)
 2. [Intro to data](http://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html)
-4. [Probability](http://openintrostat.github.io/oilabs-jamovi/03_probability/probability.html)
-3. [Normal distribution](http://openintrostat.github.io/oilabs-jamovi/04_normal_distribution/normal_distribution.html)
+3. [Probability](http://openintrostat.github.io/oilabs-jamovi/03_probability/probability.html)
+4. [Normal distribution](http://openintrostat.github.io/oilabs-jamovi/04_normal_distribution/normal_distribution.html)
 5. Foundations of inference  
   a. [Sampling distributions](https://openintro.shinyapps.io/sampling_distributions_jamovi)  
   b. [Confidence intervals](https://openintro.shinyapps.io/confidence_intervals_jamovi)
